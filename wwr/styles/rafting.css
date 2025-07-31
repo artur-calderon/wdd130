@@ -154,8 +154,6 @@ footer nav {
 }
 
 
-/* CONTACT PAGE STYLES */
-
 .company-info {
     margin: 2rem auto;
     padding: 1rem;
@@ -292,5 +290,5 @@ footer p a {
 }
 
 footer p a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
